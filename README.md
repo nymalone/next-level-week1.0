@@ -99,4 +99,4 @@ $ npm start
 ```
 
 
-Made with ♥ by Nykolle Malone :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
+Made with  ♥  by  Nykolle Malone :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
