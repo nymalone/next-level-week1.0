@@ -106,4 +106,6 @@ $ npm start
 ```
 
 
-Made with :purple_heart:  by   Nykolle Malone                 |          :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
+---
+
+Made with :coffee: and :purple_heart:  by   Nykolle Malone                 |          :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
