@@ -37,6 +37,9 @@ That aims to connect people to companies that collect specific waste such as lig
     <img alt="Example" title="Example" src="./web/src/assets/example.png" width="500px" />
 </h1>
 
+## 🔖 Layout
+
+To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
 ## :rocket: Technologies
 
@@ -45,10 +48,14 @@ This project was developed with the following technologies:
 - Node.js
 - TypeScript
 - React
+- Express
+- SQLite / Knex
+- Leaflet
 
-## 🔖 Layout
+## :cloud: External API
+The web and mobile project used an external API to load the states and cities of Brazil.
 
-To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+-  [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades)
 
 ## :information_source: How To Use
 
@@ -99,4 +106,4 @@ $ npm start
 ```
 
 
-Made with  ♥  by  Nykolle Malone :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
+Made with :purple_heart: by  Nykolle Malone  :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
