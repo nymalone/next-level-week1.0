@@ -8,7 +8,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/nymalone/next-level-week1.0">
 	
   <a href="https://www.linkedin.com/in/nykollemalone/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-NykolleMalone-%2304D361">
+    <img alt="Made by NykolleMalone" src="https://img.shields.io/badge/made%20by-NykolleMalone-%2304D361">
   </a>
 
   <a href="https://github.com/nymalone/next-level-week1.0/commits/master">
@@ -116,4 +116,7 @@ You are totally allowed to contribute with this project. To do that, fork this r
 
 ---
 
-Made with :coffee: and :purple_heart:  by   Nykolle Malone                 |          :wave: [Contact me!](https://www.linkedin.com/in/nykollemalone/)
+<h4 align="center">
+    Made with :coffee: and 💜 by <a href="https://www.linkedin.com/in/nykollemalone/" target="_blank">Nykolle Malone</a>
+</h4>
+
