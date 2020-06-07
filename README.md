@@ -57,13 +57,13 @@ The web and mobile project used an external API to load the states and cities of
 
 -  [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades)
 
-## :information_source: How To Use
+## :question: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) installed on your computer.
 
 From your command line:
 
-### Install API 
+### :gear:  Install API 
 
 ```bash
 # Clone this repository
@@ -87,7 +87,7 @@ $ npm run dev
 # running on port 3333
 ```
 
-### Install Front-end
+### :computer:   Install Front-end
 
 ```bash
 # Clone this repository
@@ -105,6 +105,14 @@ $ npm start
 # running on port 3000
 ```
 
+### :clock2:  Future Improvements
+* Mobile App
+* Confirmation alert after add some point 
+* Validation for front-end 
+* Sign up/Login
+
+### :palms_up_together: Contributing
+You are totally allowed to contribute with this project. To do that, fork this repository, make your changes and create a pull request.
 
 ---
 
