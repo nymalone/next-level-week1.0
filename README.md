@@ -3,19 +3,19 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nymalone/next-level-week-1.0?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nymalone/next-level-week1.0?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nymalone/next-level-week-1.0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nymalone/next-level-week1.0">
 	
   <a href="https://www.linkedin.com/in/nykollemalone/">
     <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-NykolleMalone-%2304D361">
   </a>
 
-  <a href="https://github.com/nymalone/next-level-week-1.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nymalone/next-level-week-1.0">
+  <a href="https://github.com/nymalone/next-level-week1.0/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nymalone/next-level-week1.0">
   </a>
-   <a href="https://github.com/nymalone/next-level-week-1.0/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/nymalone/next-level-week-1.0?style=social">
+   <a href="https://github.com/nymalone/next-level-week1.0/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/nymalone/next-level-week1.0?style=social">
   </a>
 </p>
 
@@ -60,10 +60,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/nymalone/next-level-week-1.0
+$ git clone https://github.com/nymalone/next-level-week1.0
 
 # Go into the repository
-$ cd next-level-week-1.0/server
+$ cd next-level-week1.0/server
 
 # Install dependencies
 $ npm install
@@ -84,10 +84,10 @@ $ npm run dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/nymalone/next-level-week-1.0
+$ git clone https://github.com/nymalone/next-level-week1.0
 
 # Go into the repository
-$ cd next-level-week-1.0/web
+$ cd next-level-week1.0/web
 
 # Install dependencies
 $ npm install
