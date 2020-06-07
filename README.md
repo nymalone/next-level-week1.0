@@ -107,9 +107,11 @@ $ npm start
 
 ### :clock2:  Future Improvements
 * Mobile App
+* Dashboard
+* Sign up/Login
 * Confirmation alert after add some point 
 * Validation for front-end 
-* Sign up/Login
+* Dark Theme
 
 ### :palms_up_together: Contributing
 You are totally allowed to contribute with this project. To do that, fork this repository, make your changes and create a pull request.
